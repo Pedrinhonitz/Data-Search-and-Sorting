@@ -8,7 +8,7 @@
 
 ###
  
-### O experimento deve ser repetido para 3 tamanhos de vetor: 10.000, 50.000 e 100.000 itens.Para pegar o tempo de execução (Pegue o tempo inicial, antes de fazer o sort, e novamente o tempo final pegue a diferença entre os dois)
+### O experimento deve ser repetido para 3 tamanhos de vetor: 10.000, 50.000 e 100.000 itens.Para pegar o tempo de execução (Pegue o tempo inicial, antes de fazer o sort, e novamente o tempo final pegue a diferença entre os dois) 
 
 ###
  
